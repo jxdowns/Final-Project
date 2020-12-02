@@ -66,3 +66,4 @@ ax.scatter(main_football_df['Expected Wins'], main_football_df['Rushing Attempts
 ax.legend(loc="upper right")
 st.pyplot(fig)
 
+#Make sure when running this code, to use "streamlit run Dashboard.py" in the terminal for the graph to show
