@@ -7,5 +7,4 @@ Link to Repository: https://github.com/jxdowns/Final-Project.git
 
 Link to Deep Note: https://deepnote.com/project/b32d4f71-4554-4678-a924-018c77579a5d
 
-Link to Dashboard: http://localhost:8501/
-
+Code for Dashboard is under Dashboard.py
